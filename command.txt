@@ -1,0 +1,10 @@
+pip3 -V
+
+python3 -V
+
+pip3 install matplotlib
+
+ver instalaciones
+pip3 freeze 
+
+pip3 install <libreria>==<version>
